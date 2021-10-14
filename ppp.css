@@ -1,0 +1,93 @@
+#tap{
+  padding: 0 0px;
+}
+body{
+  margin: 0 0;
+}
+a{
+  color: white;
+  margin-left: 200px;
+  font-size: 19px;
+}
+.suret{
+  margin-left: 150px;
+  margin-top: -60px;
+}
+.soz{
+  margin-left: 225px;
+  /* margin-top: 100px; */
+}
+.b{
+  margin-left: -160px;
+}
+/* .img{
+  margin-left: 200px;
+} */
+.keste{
+  margin-left: 150px;
+  margin-top: 25px
+}
+
+.keste .g{
+  margin-left: 370px;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+.keste .imya{
+  margin-left: 130px;
+}
+
+/* table {
+  color: white;
+} */
+/* .arty{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5c/VC_Zenit_Saint_Petersburg.jpg);
+} */
+.search{
+  margin-left: 1100px;
+  margin-top: -13px;
+}
+.sait{
+  margin-left: -110px;
+}
+.slo{
+  margin-left: 100px;
+}
+.slovo{
+  margin-left: 50px;
+}
+.nado{
+  margin-left: 505px;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+.kesteball .sooz{
+  margin-left: 2px;
+}
+.asty{
+  margin-left: 260px;
+}
+.kesteball .qqq {
+  color: white;
+}
+.kesteball .lll{
+  font-size: 20px;
+  margin-left: 595px;
+  letter-spacing: 2px;
+}
+.as{
+  margin-left: 280px;
+}
+.as .sdf{
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-left: 220px;
+}
+.kestem{
+  margin-left: 380px;
+}
+.kestem .sozdop{
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-left: 210px;
+}
